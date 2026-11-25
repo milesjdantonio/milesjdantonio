@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Miles 👋</h1>
 
 <p align="center">
-  <b>Computer Science @ Virginia Tech</b> · I learn new technologies by building with them
+  <b>Computer Science @ Virginia Tech</b> 
 </p>
 
 <p align="center">
