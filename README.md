@@ -18,6 +18,8 @@
 - 🏆 **2nd Place & Best Use of Gemma** at a Google Developer Group Hackathon, as lead developer of [TerraSim](https://terrasim.house)
 - 🛠️ I build full-stack web apps, games, embedded hardware, and AI-powered tools
 - 🔭 Right now: building **Rhythm Architect** and a big update to **Schmoll Crossword**
+- 💼 Open to **Summer 2027 internships**, so feel free to [reach out](mailto:milesjdantonio@gmail.com)
+- 🎢 Fun fact: before CS, I ran rides at Kings Dominion, including dispatching 32-rider trains on the Dominator coaster
 
 ---
 
@@ -33,7 +35,7 @@
       <p><a href="https://rhythmarchitect-frontend.onrender.com">Play it</a> · <a href="https://github.com/milesjdantonio/RhythmArchitect">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://terrasim.house"><img src="assets/terrasim.jpg" alt="TerraSim start screen"></a>
+      <a href="https://terrasim.house"><img src="assets/terrasim.jpg" alt="TerraSim showing an AI-designed house on a lot in Blacksburg, Virginia"></a>
       <h3><a href="https://terrasim.house">TerraSim</a> 🏆</h3>
       <p>Outline a lot on a 3D map and get an AI-generated floor plan, a furnished 3D walkthrough, and a cost estimate. <b>2nd Place & Best Use of Gemma.</b></p>
       <p><sub><b>JavaScript · Three.js · MapLibre · Go · PostgreSQL · Gemma</b></sub></p>
